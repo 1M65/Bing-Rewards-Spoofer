@@ -52,7 +52,7 @@ When you launch the app:
 4. A stealthy Camoufox browser will open directly to `bing.com`. Perform your tasks manually.
 5. **Close the browser** when finished.
 
-### The Cooldown Timer
+### Cooldown Timer
 For your account's safety, running accounts back-to-back will trigger detection. 
 - The moment you close the browser, a **random 20–60 minute countdown** will automatically start.
 - During this time, the account list is locked. 

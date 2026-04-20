@@ -33,7 +33,7 @@ When you launch the app:
 
 ---
 
-## 📖 How to Use the App
+##  How to Use the App
 
 ### Managing Profiles
 1. Use the dropdown to select **"-- Create New Profile --"** to add an account. 

@@ -45,7 +45,7 @@ When you launch the app:
 2. Click **Credentials** next to a profile to securely store its Microsoft email and password.
 3. Every profile maintains its own separate browser cache and cookies, meaning you only need to log in once!
 
-### The Daily Workflow
+### Daily Workflow
 1. Click the name of the account you want to run.
 2. The app will automatically execute the ADB airplane mode toggle to get a new IP address.
 3. The app will verify your new IP in the background (without leaving a browser trace).

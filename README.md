@@ -1,12 +1,12 @@
-# Bing Chilling — Edge Camoufox Automator
+# Edge Camoufox Spoofer
 
-Bing Chilling is a stealthy, multi-account automation manager designed to help you securely cycle through multiple Bing Rewards accounts without triggering Microsoft's bot detection systems. 
+Edge Camoufox Spoofer is a stealthy, multi-account automation manager designed to help you securely cycle through multiple Bing Rewards accounts without triggering Microsoft's bot detection systems. 
 
 It leverages the **Camoufox** browser engine for native C++ fingerprint spoofing and integrates directly with Android **ADB** to rotate your IP address via cellular data airplane mode toggling.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Anti-Detection Browser:** Uses `AsyncCamoufox` to spoof your OS, block WebRTC, match GeoIP, and humanize cursor movement, keeping you under the radar.
 - **Automated IP Rotation:** Automatically toggles airplane mode on your tethered Android phone via ADB to fetch a fresh CGNAT IP before opening a new account.
@@ -15,7 +15,7 @@ It leverages the **Camoufox** browser engine for native C++ fingerprint spoofing
 
 ---
 
-## ⚙️ Initial Setup
+##  Initial Setup
 
 ### 1. Phone Setup (REQUIRED for IP Rotation)
 You must use a specific Android + PC tethering configuration to safely rotate IPs without getting flagged.
@@ -39,7 +39,7 @@ When you launch the app:
 1. Use the dropdown to select **"-- Create New Profile --"** to add an account. 
 2. Every profile maintains its own separate browser cache and cookies, meaning you only need to log in once!
 
-### The Daily Workflow
+### Daily Workflow
 1. Click the name of the account you want to run.
 2. The app will automatically execute the ADB airplane mode toggle to get a new IP address, and pull the Every Proxy app to the foreground on your phone.
 3. A warning will appear reminding you to keep Every Proxy in the foreground.
@@ -47,7 +47,7 @@ When you launch the app:
 5. A stealthy Camoufox browser will open directly to `bing.com`. Perform your tasks manually.
 6. **Close the browser** when finished.
 
-### The Cooldown Timer
+### Cooldown Timer
 For your account's safety, running accounts back-to-back will trigger detection. 
 - The moment you close the browser, a **random 20–60 minute countdown** will automatically start.
 - During this time, the account list is locked. 
